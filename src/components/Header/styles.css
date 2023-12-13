@@ -1,0 +1,11 @@
+header {
+    height: 62px;
+    background-color: var(--color-bg-secondary);
+    color: var(--color-font-1st);
+    display: flex;
+    align-items: center;
+  }
+
+  header h2 {
+    font-weight: 500;
+  }
