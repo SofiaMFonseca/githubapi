@@ -4,8 +4,10 @@
     border-radius: 4px;
     background-color: var(--color-bg-secondary);
     color: var(--color-font-1st);
+    font-size: 16px;
     border: none;
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
