@@ -7,9 +7,7 @@ type Props = {
 function Button({ text }: Props) {
 
     return (
-        <div>
-            <button type='submit' className="button">{text}</button>
-        </div>
+        <button className="button">{text}</button>
     );
 }
 
