@@ -64,7 +64,7 @@ function SearchCard() {
                     <button type='submit' className='search-btn'>Encontrar</button>
                 </form>
             </div>
-            <div>
+            <div className='container'>
                 {showResult && profile &&
                     <ResultCard
                         name={profile.name}
