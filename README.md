@@ -1,5 +1,11 @@
 # Design Figma for the project [here](https://www.figma.com/file/igQqM14f9sP17jyo54Y8vL/DesafioGithubAPI)
 
+## Correction criteria for this task:
+
+1) Two pages with working routes, navigating between them. 
+2) When searching for a user who exists, the user's data should appear according to the layout. 
+3) When searching for a user who does not exist, a message should appear according to the layout.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
