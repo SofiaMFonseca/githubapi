@@ -6,6 +6,12 @@
 2) When searching for a user who exists, the user's data should appear according to the layout. 
 3) When searching for a user who does not exist, a message should appear according to the layout.
 
+## Layout
+
+![Figma](https://github.com/SofiaMFonseca/assets/blob/main/githubapi/figma-task-githubapi-1.png)
+
+![Figma](https://github.com/SofiaMFonseca/assets/blob/main/githubapi/figma-task-githubapi-2.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
